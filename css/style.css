@@ -11,11 +11,11 @@ body {
 }
 .container{
     width: 360px;
-    height: 400px;
+    height: 425px;
     position: fixed;
     top: 50%;
     left: 50%;
-    margin: -240px 0 0 -220px;
+    margin: -230px 0 0 -220px;
     padding: 40px 60px;
     border-radius: 25px;
     background-color: #000069;
