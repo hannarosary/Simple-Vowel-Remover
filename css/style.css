@@ -11,11 +11,11 @@ body {
 }
 .container{
     width: 360px;
-    height: 400px;
+    height: 500px;
     position: fixed;
     top: 50%;
     left: 50%;
-    margin: -240px 0 0 -220px;
+    margin: -200px 0 0 -220px;
     padding: 40px 60px;
     border-radius: 25px;
     background-color: #000069;
@@ -49,9 +49,9 @@ form{
     font-size: 16px;
     padding: 10px 0;
     margin: 2.5px 0;
-    background-color: #ff008c;  
-    color: #fff; 
-    font-weight: 900; 
+    background-color: #ff008c;
+    color: #fff;
+    font-weight: 900;
 }
 .input-text, #submitBtn, #removeBtn{
     border-radius: 12.5px;
